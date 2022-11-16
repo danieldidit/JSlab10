@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Bubble Gum Sour",
+      "calories": 320,
+      "type": "ice cream",
+      "ingredients": [
+        "bubble gum",
+        "lime",
+        "lemon"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Lotsa Chocolate Chip",
+      "calories": 670,
+      "type": "ice cream",
+      "ingredients": [
+        "chocolate chips",
+        "vanila extraxt",
+        "nutella"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
